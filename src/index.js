@@ -1,4 +1,4 @@
-import { Router } from 'preact-router';
+import { Route, Router } from 'preact-router';
 
 import { Header } from './components/header';
 
@@ -19,12 +19,12 @@ export default function App() {
             <Header />
 			<main>
 				<Router history={createHashHistory()}>
-					<Home path="/" />
-					<Story path="/story" />
-					<Accomodations path="/accommodations" />
-					<ThingsToDo path="/things-to-do" />
-					<Rsvp path="/rsvp" />
-					<Registry path="/registry" />
+					<Route path="/" component={Home} />
+					<Route path="/story" component={Story} />
+					<Route path="/accommodations" component={Accomodations} />
+					<Route path="/things-to-do" component={ThingsToDo} />
+					<Route path="/rsvp" component={Rsvp} />
+					<Route path="/registry" component={Registry} />
 				</Router>
 			</main>
         </div>

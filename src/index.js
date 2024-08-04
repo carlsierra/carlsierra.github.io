@@ -6,6 +6,7 @@ import { Header } from './components/header';
 import Home from './routes/home';
 import Story from './routes/story';
 
+import { createHashHistory } from 'history';
 import Accomodations from './routes/accommodations';
 import Registry from './routes/registry';
 import Rsvp from './routes/rsvp';
@@ -17,7 +18,7 @@ export default function App() {
         <div id="app">
             <Header />
 			<main>
-				<Router>
+				<Router history={createHashHistory()}>
 					<Home path="/" />
 					<Story path="/story" />
 					<Accomodations path="/accommodations" />

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[362],{700:(e,s,n)=>{function c(){return(0,r.Y)("div",{class:"page",children:"story coming soon"})}n.r(s),n.d(s,{default:()=>c});var r=n(35)}}]);
+//# sourceMappingURL=route-story.chunk.f438e.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[102],{712:(e,s,n)=>{function r(){return(0,c.Y)("div",{class:"page",children:"registry coming soon"})}n.r(s),n.d(s,{default:()=>r});var c=n(35)}}]);
+//# sourceMappingURL=route-registry.chunk.8380b.js.map

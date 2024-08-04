@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[942],{212:(e,r,n)=>{function t(){return(0,a.Y)("div",{class:"page",children:"we're getting married! more info to come."})}n.r(r),n.d(r,{default:()=>t});var a=n(35)}}]);
+//# sourceMappingURL=route-home.chunk.1b012.js.map

@@ -15,7 +15,7 @@ export default function Story() {
 				<img class="web-image" src='assets/telluride.JPG'/>
 			</section>
 			<section class="even">
-				<img class="web-image" src='assets/buena-vista.jpg'/>
+				<img class="web-image" src='assets/buena-vista.JPG'/>
 				After undergrad, Sierra moved to Denver for graduate school. 
 				She has always loved to ski and with her brother also living in Denver, she quickly felt right at home. 
 				That feeling led her to stay put while starting her career as an early childhood social worker.
@@ -35,7 +35,7 @@ export default function Story() {
 			<img class="web-image" src='assets/paris.jpg'/>
 			</section>
 			<section class="even">
-			<img class="web-image" src='assets/engagement.jpg'/>
+			<img class="web-image" src='assets/engagement.JPG'/>
 			In June of 2024, after living in their new home for about a half year, they were slowly making 
 			it their own. Sierra planned a date night of ordering pizza, drinking wine, and learning how to 
 			paint a bathroom - it sounded wonderful. 

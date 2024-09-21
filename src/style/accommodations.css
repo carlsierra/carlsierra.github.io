@@ -4,11 +4,7 @@
     display: flex;
     flex-direction: column;
     margin-bottom: 64px;
-
-    h3 {
-        margin: 0;
-    }
-
+    
     section {
         display: flex;
         flex-direction: column;
@@ -65,4 +61,8 @@
             }
         }
     }
+}
+
+.accommodations h3 {
+    margin: 0;
 }

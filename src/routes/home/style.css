@@ -1,0 +1,97 @@
+.container {
+    margin-top: 32px;
+    margin-bottom: 64px;
+    /* border: 1px solid gray; */
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    grid-auto-rows: 150px;
+}
+
+.container .stub img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+/* schedule */ 
+
+.container .schedule-stub {
+    grid-column: 1 / 3;
+    grid-row: 4 / 7;
+
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* landscapes */
+
+.container .landscape-stub-1 {
+    grid-column: 1 / 3;
+    grid-row: 1 / 4;
+}
+
+
+
+.container .landscape-stub-2 {
+    grid-column: 2 / 3;
+    grid-row: 7 / 9;
+}
+
+.container .landscape-stub-3 {
+    grid-column: 1 / 2;
+    grid-row: 11 / 13;
+}
+
+.container .landscape-stub-4 {
+    grid-column: 2 / 3;
+    grid-row: 17 / 19;
+}
+
+.container .landscape-stub-5 {
+    grid-column: 1 / 2;
+    grid-row: 21 / 23;
+}
+
+
+/* portraits */
+
+.container .portrait-stub-1 {
+    grid-column: 1 / 2;
+    grid-row: 7 / 11;
+}
+
+.container .portrait-stub-2 {
+    grid-column: 2 / 3;
+    grid-row: 9 / 13;
+}
+
+.container .portrait-stub-3 {
+    grid-column: 1 / 2;
+    grid-row: 13 / 17;
+}
+
+.container .portrait-stub-4 {
+    grid-column: 2 / 3;
+    grid-row: 13 / 17;
+}
+
+.container .portrait-stub-5 {
+    grid-column: 1 / 2;
+    grid-row: 17 / 21;
+}
+
+.container .portrait-stub-6 {
+    grid-column: 2 / 3;
+    grid-row: 19 / 23;
+}
+
+@media (max-width: 639px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+    }
+}

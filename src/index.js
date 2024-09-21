@@ -8,7 +8,6 @@ import Story from './routes/story';
 
 import { createHashHistory } from 'history';
 import Accommodations from './routes/accommodations';
-import Registry from './routes/registry';
 import Rsvp from './routes/rsvp';
 import ThingsToDo from './routes/thingsToDo';
 import './style/index.css';
@@ -26,7 +25,6 @@ export default function App() {
 					<Route path="/accommodations" component={Accommodations} />
 					<Route path="/things-to-do" component={ThingsToDo} />
 					<Route path="/rsvp" component={Rsvp} />
-					<Route path="/registry" component={Registry} />
 				</Router>
 			</main>
         </div>

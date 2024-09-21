@@ -1,15 +1,11 @@
-.things-to-do {
-    > div {
-        display: flex;
-        flex-direction: column;
-    }
-
-    p.thing-title {
-        font-weight: bold;
-        margin-bottom: 0px;
-    }
-
-    p.thing-description {
-        margin-top: 0px;
-    }
+.things-to-do > div {
+    display: flex;
+    flex-direction: column;
+}
+.things-to-do p.thing-title {
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.things-to-do p.thing-description {
+    margin-top: 0px;
 }

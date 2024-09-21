@@ -1,9 +1,11 @@
+import './style.css';
+
 export default function Accommodations() {
 	return (
 		<div class='page accommodations'>
 			<h2>Accommodations</h2>
 			<section>
-				<h3>Option #1</h3>
+				<h3>Limelight hotel</h3>
 				<p>For the convenience of our guests we have reserved a block of rooms at The Limelight Hotel. 
 					A limited number of rooms have been reserved at a nightly rate of $279. 
 					Please make sure to use our booking link below or call to make a 
@@ -33,7 +35,7 @@ export default function Accommodations() {
 				</div>
 			</section>
 			<section>
-				<h3>Option #2</h3>
+				<h3>Hotel Indigo</h3>
 				<p>We have also reserved an additional block of rooms at Hotel Indigo. 
 					A limited number of rooms have been reserved at a nightly rate of $209. 
 					Please make sure to use our booking link below or call to make a reservation under “Johnson Wedding” to ensure you get the group rate.

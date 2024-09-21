@@ -11,7 +11,6 @@ import Accommodations from './routes/accommodations';
 import Registry from './routes/registry';
 import Rsvp from './routes/rsvp';
 import ThingsToDo from './routes/thingsToDo';
-import './style/accommodations.css';
 import './style/index.css';
 
 

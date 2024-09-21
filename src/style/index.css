@@ -31,7 +31,8 @@ h2 {
 .page {
     margin: 0 auto;
     max-width: 900px;
-    margin-top: 64px;
+    display: flex;
+    flex-direction: column;
 }
 
 @media (max-width: 639px) {

@@ -10,6 +10,6 @@
 export default (config, env, helpers) => {
 	/** you can change the config here **/
 
-	const css = helpers.getLoadersByName(config, 'css-loader')[0];
-	css.loader.options.modules = false;
+	// const css = helpers.getLoadersByName(config, 'css-loader')[0];
+	// css.loader.options.modules = false;
 };

@@ -1,8 +1,8 @@
-import './style.css';
+import accomdationStyles from './style.css';
 
 export default function Accomodations() {
 	return (
-		<div class='page accomodations'>
+		<div class={`page ${accomdationStyles}`}>
 			<h2>Accomodations</h2>
 			<section>
 				<h3>Option #1</h3>

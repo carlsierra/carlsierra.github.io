@@ -5,15 +5,27 @@ body {
 	background-color: #fbf7f1;
     margin: 24px;
     font-size: 18px;
+    text-transform: lowercase;
+    line-height: 1.2;
 }
 
-h1, h2, h3, h4 {
+h1, h2 {
     font-family: 'Poller One';
     text-transform: uppercase;
 }
 h1 {
     font-size: 64px;
     margin-bottom: 24px;
+}
+h2 {
+    text-align: center;
+}
+
+.external-link-icon {
+    height: 16px;
+    padding-left: 3px;
+    position: relative;
+    top: 3px;
 }
 
 .page {

@@ -15,7 +15,7 @@ export function Header() {
 				<a href="/accommodations">accommodations</a>
 				<a href="/things-to-do">things to do</a>
 				<a href="/rsvp">rsvp</a>
-				<a href="/registry">registry</a>
+				<a href="https://withjoy.com/carlsierra/registry">registry<img class='external-link-icon' src='assets/external-2.svg' /></a>
 			</nav>
 		</header>
 	);

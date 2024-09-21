@@ -7,11 +7,14 @@ import Home from './routes/home';
 import Story from './routes/story';
 
 import { createHashHistory } from 'history';
-import Accomodations from './routes/accommodations';
+import Accommodations from './routes/accommodations';
 import Registry from './routes/registry';
 import Rsvp from './routes/rsvp';
 import ThingsToDo from './routes/thingsToDo';
+import './style/accommodations.css';
 import './style/index.css';
+
+
 
 export default function App() {
     return (
@@ -21,7 +24,7 @@ export default function App() {
 				<Router history={createHashHistory()}>
 					<Route path="/" component={Home} />
 					<Route path="/story" component={Story} />
-					<Route path="/accommodations" component={Accomodations} />
+					<Route path="/accommodations" component={Accommodations} />
 					<Route path="/things-to-do" component={ThingsToDo} />
 					<Route path="/rsvp" component={Rsvp} />
 					<Route path="/registry" component={Registry} />

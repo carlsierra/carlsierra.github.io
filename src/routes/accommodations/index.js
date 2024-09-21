@@ -1,10 +1,7 @@
-import '../../style/accomodations.css';
-
-
-export default function Accomodations() {
+export default function Accommodations() {
 	return (
-		<div class='page accomodations'>
-			<h2>Accomodations</h2>
+		<div class='page accommodations'>
+			<h2>Accommodations</h2>
 			<section>
 				<h3>Option #1</h3>
 				<p>For the convenience of our guests we have reserved a block of rooms at The Limelight Hotel. 

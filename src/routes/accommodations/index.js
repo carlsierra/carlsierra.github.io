@@ -14,7 +14,7 @@ export default function Accomodations() {
 					<img src='assets/limelight.jpg'/>
 					<div>
 						<div class='hotelInfo'>
-							<b>The Limelight Hotel</b>
+							<i>The Limelight Hotel</i>
 							<p>1600 Wewatta St, Denver, CO 80202</p>
 							<p>(303) 323-0024</p>
 							<p>Booking Link: 
@@ -44,7 +44,7 @@ export default function Accomodations() {
 					<img src='assets/indigo.jpg'/>
 					<div>
 						<div class='hotelInfo'>
-							<b>Hotel Indigo Denver Downtown-Union Station</b>
+							<i>Hotel Indigo Denver Downtown-Union Station</i>
 							<p>1801 Wewatta St, Denver, CO 80202</p>
 							<p>(303) 623-4422</p>
 							<p>Booking Link: 

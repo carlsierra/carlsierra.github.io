@@ -1,0 +1,68 @@
+
+.accomodations {
+
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 64px;
+
+    h3 {
+        margin: 0;
+    }
+
+    section {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        margin-bottom: 86px;
+    }
+
+    .hotelSection {
+        display: flex;
+        align-items: center;
+        gap: 36px;
+
+        &.indigo {
+            flex-direction: row-reverse;
+        }
+
+        img {
+            min-width: 0;
+        }
+
+        > div {
+            min-width: 50%;
+            display: flex;
+            flex-direction: column;
+
+            .hotelInfo {
+                margin-bottom: 24px;
+            }
+        
+            p, li {
+                margin: 6px 0;
+            }
+
+            .walk-time {
+                color: gray;
+                font-size: 14px;
+            }
+
+        }
+    }
+
+    @media (max-width: 639px) {
+        section {
+            margin-bottom: 48px;
+        }
+
+        .hotelSection {
+            flex-direction: column;
+            gap: 24px;
+            align-items: stretch;
+
+            &.indigo {
+                flex-direction: column;
+            }
+        }
+    }
+}

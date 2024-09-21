@@ -2,7 +2,7 @@ import './style.css';
 
 export default function Story() {
 	return (
-		<div class='page'>
+		<div class='page story'>
 			<h2>our story</h2>
 			<section>
 				Carl + Sierra both come from Michigan, although on opposite sides of the state; 

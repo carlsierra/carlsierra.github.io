@@ -4,6 +4,11 @@ export default function Home() {
 	return (
 		<div class='page'>
 			<div class="container">
+
+				<div class='stub landscape-stub-1'>
+					<img src='assets/home/KASI9084.jpg'/>
+				</div>
+
 				<div class='stub schedule-stub'>
 					<div>
 						<h3>Weekend Schedule</h3>
@@ -21,9 +26,6 @@ export default function Home() {
 						</div>
 					</div>
 
-				</div>
-				<div class='stub landscape-stub-1'>
-					<img src='assets/home/KASI9084.jpg'/>
 				</div>
 				<div class='stub landscape-stub-2'>
 					<img src='assets/home/KASI9459.jpg'/>

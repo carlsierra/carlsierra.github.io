@@ -1,67 +1,54 @@
-
 .accommodations {
-
     display: flex;
     flex-direction: column;
     margin-bottom: 64px;
-    
-    section {
-        display: flex;
-        flex-direction: column;
-        gap: 12px;
-        margin-bottom: 86px;
-    }
-
-    .hotelSection {
-        display: flex;
-        align-items: center;
-        gap: 36px;
-
-        &.indigo {
-            flex-direction: row-reverse;
-        }
-
-        img {
-            min-width: 0;
-        }
-
-        > div {
-            min-width: 50%;
-            display: flex;
-            flex-direction: column;
-
-            .hotelInfo {
-                margin-bottom: 24px;
-            }
-        
-            p, li {
-                margin: 6px 0;
-            }
-
-            .walk-time {
-                color: gray;
-                font-size: 14px;
-            }
-
-        }
-    }
-
-    @media (max-width: 639px) {
-        section {
-            margin-bottom: 48px;
-        }
-
-        .hotelSection {
-            flex-direction: column;
-            gap: 24px;
-            align-items: stretch;
-
-            &.indigo {
-                flex-direction: column;
-            }
-        }
-    }
 }
+.accommodations section {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 86px;
+}
+.accommodations .hotelSection {
+    display: flex;
+    align-items: center;
+    gap: 36px;
+}
+.accommodations .hotelSection.indigo {
+    flex-direction: row-reverse;
+}
+.accommodations .hotelSection img {
+    min-width: 0;
+}
+.accommodations .hotelSection > div {
+    min-width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+.accommodations .hotelSection > div .hotelInfo {
+    margin-bottom: 24px;
+}
+.accommodations .hotelSection > div p, .accommodations .hotelSection > div li {
+    margin: 6px 0;
+}
+.accommodations .hotelSection > div .walk-time {
+    color: gray;
+    font-size: 14px;
+}
+@media (max-width: 639px) {
+    .accommodations section {
+        margin-bottom: 48px;
+   }
+    .accommodations .hotelSection {
+        flex-direction: column;
+        gap: 24px;
+        align-items: stretch;
+   }
+    .accommodations .hotelSection.indigo {
+        flex-direction: column;
+   }
+}
+
 
 .accommodations h3 {
     margin: 0;

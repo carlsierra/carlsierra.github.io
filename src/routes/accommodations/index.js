@@ -25,7 +25,7 @@ export default function Accomodations() {
 							<p>key highlights</p>
 							<ul>
 								<li>Train access to/from airport <div class='walk-time'>1 minute walk</div></li>
-								<li>welcome party <div class='walk-time'>4 minute walk</div></li>
+								<li>close to welcome party <div class='walk-time'>4 minute walk</div></li>
 								<li>it is the Wedding Shuttle pickup / drop off location</li>
 								<li>On-Site Restaurant/Bar, with many more walkable</li>
 								<li>Discounted nightly rate and amenity fee </li>
@@ -55,7 +55,7 @@ export default function Accomodations() {
 							<p>key highlights</p>
 							<ul>
 								<li>Train access to/from airport <div class='walk-time'>5 minute walk</div></li>
-								<li>welcome party <div class='walk-time'>8 minute walk</div></li>
+								<li>close to welcome party <div class='walk-time'>8 minute walk</div></li>
 								<li>Close to wedding shuttle pickup / drop off location <div class='walk-time'>4 minute walk</div></li>
 								<li>On-Site Restaurant/Bar, with many more walkable</li>
 								<li>No nightly amenity fee (ignore “additional charges” when reserving your room)</li>

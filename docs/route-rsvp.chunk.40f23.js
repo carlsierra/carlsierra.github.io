@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[952],{46:(s,e,n)=>{function c(){return(0,r.Y)("div",{class:"page",children:"rsvps coming soon"})}n.r(e),n.d(e,{default:()=>c});var r=n(35)}}]);
-//# sourceMappingURL=route-rsvp.chunk.40f23.js.map

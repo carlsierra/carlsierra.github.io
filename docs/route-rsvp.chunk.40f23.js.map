@@ -1,1 +1,0 @@
-{"version":3,"file":"route-rsvp.chunk.40f23.js","mappings":"iFAAe,SAASA,IACvB,OACCC,EAAAA,EAAAA,GAAA,OAAKC,MAAM,OAAMC,SAAC,qBAIpB,C","sources":["webpack:///./routes/rsvp/index.js"],"sourcesContent":["export default function Rsvp() {\n\treturn (\n\t\t<div class='page'>\n\t\t\trsvps coming soon\n\t\t</div>\n\t);\n}\n"],"names":["Rsvp","_jsx","class","children"],"sourceRoot":""}

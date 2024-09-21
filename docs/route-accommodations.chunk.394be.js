@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[124],{450:(c,e,n)=>{function s(){return(0,a.Y)("div",{class:"page",children:"accommodations coming soon"})}n.r(e),n.d(e,{default:()=>s});var a=n(35)}}]);
-//# sourceMappingURL=route-accommodations.chunk.394be.js.map

@@ -31,6 +31,12 @@ h2 {
 
 nav > a {
     line-height: 1.5;
+    margin: 0 8px;
+}
+
+a {
+    color: #505050;
+    text-underline-offset: 6px;
 }
 
 .page {

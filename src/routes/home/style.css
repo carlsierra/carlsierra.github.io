@@ -6,7 +6,7 @@
     grid-auto-rows: 150px;
 }
 
-.container .stub img {
+.container .stub:not(.schedule-stub) img {
     width: 100%;
     height: 100%;
     object-fit: cover;

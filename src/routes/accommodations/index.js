@@ -17,8 +17,12 @@ export default function Accommodations() {
 							<i>The Limelight Hotel</i>
 							<p>1600 Wewatta St, Denver, CO 80202</p>
 							<p>(303) 323-0024</p>
-							<p>Booking Link: 
-								<a href="https://www.limelighthotels.com/denver/reservations#/booking/step-1?arrive=5%2F29%2F2025&depart=5%2F31%2F2025&group=5644684">Johnson and Olthoff Wedding</a>
+							<p><a 
+							href="https://www.limelighthotels.com/denver/reservations#/booking/step-1?arrive=5%2F29%2F2025&depart=5%2F31%2F2025&group=5644684"
+							target="_blank"
+							>booking link
+								<img class='external-link-icon' src='assets/external-2.svg' />
+							</a>
 							</p>
 						</div>
 						<div>
@@ -47,8 +51,12 @@ export default function Accommodations() {
 							<i>Hotel Indigo Denver Downtown-Union Station</i>
 							<p>1801 Wewatta St, Denver, CO 80202</p>
 							<p>(303) 623-4422</p>
-							<p>Booking Link: 
-								<a href="http://www.hotelindigo.com/redirect?path=asearch&brandCode=IN&localeCode=en&regionCode=1&hotelCode=DENWS&checkInDate=29&checkInMonthYear=042025&checkOutDate=31&checkOutMonthYear=042025&rateCode=6CBARC&_PMID=99801505&GPC=SCW&cn=no&viewfullsite=true">Johnson and Olthoff Wedding</a>
+							<p><a 
+								href="http://www.hotelindigo.com/redirect?path=asearch&brandCode=IN&localeCode=en&regionCode=1&hotelCode=DENWS&checkInDate=29&checkInMonthYear=042025&checkOutDate=31&checkOutMonthYear=042025&rateCode=6CBARC&_PMID=99801505&GPC=SCW&cn=no&viewfullsite=true"
+								target='_blank'
+								>booking link
+								<img class='external-link-icon' src='assets/external-2.svg' />
+								</a>
 							</p>
 						</div>
 						<div>

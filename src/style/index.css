@@ -3,7 +3,7 @@ body {
 	font-family: 'Anonymous Pro', monospace;
 	color: #505050;
 	background-color: #fbf7f1;
-    margin: 24px;
+    margin: 0;
     font-size: 18px;
     text-transform: lowercase;
     line-height: 1.2;
@@ -15,7 +15,7 @@ h1, h2 {
 }
 h1 {
     font-size: 64px;
-    margin-bottom: 24px;
+    margin-bottom: 12px;
 }
 h2 {
     text-align: center;

@@ -1,0 +1,16 @@
+.faq h5 {
+    margin: 0;
+    font-size: 18px;
+}
+
+.faq .timeline {
+    display: flex;
+    flex-direction: column;
+}
+.faq .timeline p {
+    margin: 0;
+}
+
+.faq .timeline > div {
+    margin-bottom: 12px;
+}

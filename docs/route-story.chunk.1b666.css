@@ -1,0 +1,2 @@
+.story section{align-items:center;display:flex;flex-direction:row;gap:64px;margin-bottom:100px;text-transform:lowercase}.story .end,.story h2{justify-content:center;text-align:center}.story .web-image{aspect-ratio:1;background:#000;border-radius:3px;flex-shrink:0;height:400px;width:400px}section.end{margin-bottom:0}@media (max-width:800px){.story .web-image{height:300px;width:300px}}@media (max-width:639px){.story section{flex-direction:column;margin:36px 0}.story section.even{flex-direction:column-reverse}}
+/*# sourceMappingURL=route-story.chunk.1b666.css.map*/

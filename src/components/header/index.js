@@ -13,6 +13,7 @@ export function Header() {
 				<a href="/">home</a>
 				<a href="/story">our story</a>
 				<a href="/accommodations">accommodations</a>
+				<a href="/faq">faq</a>
 				<a href="/things-to-do">things to do</a>
 				<a href="/rsvp">rsvp</a>
 				<a href="https://withjoy.com/carlsierra/registry" target="_blank">registry<img class='external-link-icon' src='assets/external-2.svg' /></a>

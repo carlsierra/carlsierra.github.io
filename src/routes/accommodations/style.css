@@ -1,7 +1,6 @@
 .accommodations {
     display: flex;
     flex-direction: column;
-    margin-bottom: 64px;
 }
 .accommodations section {
     display: flex;
@@ -12,6 +11,7 @@
     display: flex;
     align-items: center;
     gap: 36px;
+    margin-top: 24px;
 }
 .accommodations .hotelSection.indigo {
     flex-direction: row-reverse;
@@ -34,10 +34,26 @@
     color: gray;
     font-size: 14px;
 }
+.accommodations h3 {
+    margin: 0;
+}
+.travel ul {
+    margin: 0;
+}
+.travel ul li {
+    margin: 12px 0;
+}
+
+section.travel {
+    margin-bottom: 0;
+}
 @media (max-width: 639px) {
     .accommodations section {
         margin-bottom: 48px;
    }
+   section.travel {
+        margin-bottom: 0;
+    }
     .accommodations .hotelSection {
         flex-direction: column;
         gap: 24px;
@@ -46,9 +62,4 @@
     .accommodations .hotelSection.indigo {
         flex-direction: column;
    }
-}
-
-
-.accommodations h3 {
-    margin: 0;
 }

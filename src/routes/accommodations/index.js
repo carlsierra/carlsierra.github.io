@@ -64,6 +64,16 @@ export default function Accommodations() {
 					</div>
 				</div>
 			</section>
+			<section class='travel'>
+				<h3>Travel Details</h3>
+				<p>When traveling from out of state you will have several options on getting from the airport to our hotel room blocks.</p>
+
+				<ul>
+					<li>The best and easiest is to train, as both our hotels are next to Union Station and this is a direct connection from the airport! Purchase an RTD Airport Day Pass for $10 on the RTD App or at the kiosk on the train platform. Children 19 and under ride for free.</li>
+					<li>Uber or Lyft (rideshare usually winds up anywhere from $50-100 each way).</li>
+					<li>Rent a car (it’s not needed if staying at our room blocks and please consider the nightly cost of parking, and, if you are looking for a trip to the mountains consider only renting for the needed time).</li>
+				</ul>
+			</section>
 		</div>
 	);
 }

@@ -20,6 +20,11 @@
     height: 400px;
     width: 400px;
 }
+
+section.end {
+    margin-bottom: 0;
+}
+
 @media (max-width: 800px) {
     .story .web-image {
         height: 300px;

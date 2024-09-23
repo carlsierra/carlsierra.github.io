@@ -14,12 +14,12 @@ export default function Home() {
 						<h3>our Weekend Schedule</h3>
 
 						<div>
-							<h4>Thursday, May 29th, 2025 | the wild denver</h4>
+							<h4><span>Thursday, May 29th, 2025</span><span class='divider'> | </span><span>the wild denver</span></h4>
 							<p>7:00pm - Welcome party</p>
 							<p>10:00pm - Welcome party ends</p>
 						</div>
 						<div>
-							<h4>Friday, May 30th, 2025 | moss denver</h4>
+							<h4><span>Friday, May 30th, 2025</span><span class='divider'> | </span><span>moss denver</span></h4>
 							<p>5:30pm - Ceremony</p>
 							<p>6:00pm - cocktail hour</p>
 							<p>7:00pm - Dinner + Reception</p>
@@ -29,31 +29,28 @@ export default function Home() {
 
 				</div>
 				<div class='stub landscape-stub-2'>
-					
 					<img src='assets/home/KASI9084.jpg'/>
+				</div>
+				<div class='stub portrait-stub-1'>
+					<img src='assets/home/KASI8954.jpg'/>
 				</div>
 				<div class='stub landscape-stub-3'>
 					<img src='assets/home/KASI7794.jpg'/>
 				</div>
-				<div class='stub landscape-stub-4'>
-					
-					<img src='assets/home/KASI9459.jpg'/>
-				</div>
-				<div class='stub landscape-stub-5'>
-					<img src='assets/home/KASI7892.jpg'/>
-				</div>
-
-				<div class='stub portrait-stub-1'>
-					<img src='assets/home/KASI8954.jpg'/>
-				</div>
 				<div class='stub portrait-stub-2'>
 					<img src='assets/home/KASI9241.jpg'/>
+				</div>
+				<div class='stub landscape-stub-4'>
+					<img src='assets/home/KASI9459.jpg'/>
 				</div>
 				<div class='stub portrait-stub-3'>
 					<img src='assets/home/KASI8808.jpg'/>
 				</div>
 				<div class='stub portrait-stub-4'>
 					<img src='assets/home/KASI7928.jpg'/>
+				</div>
+				<div class='stub landscape-stub-5'>
+					<img src='assets/home/KASI7892.jpg'/>
 				</div>
 				<div class='stub portrait-stub-5'>
 					<img src='assets/home/KASI8121.jpg'/>

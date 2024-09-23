@@ -108,6 +108,7 @@
     .schedule-stub h4 {
         display: flex;
         flex-direction: column;
+        line-height: 1.25;
     }
     .schedule-stub .divider {
         display: none;

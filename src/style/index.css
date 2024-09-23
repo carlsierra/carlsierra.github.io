@@ -84,6 +84,7 @@ ol {
     }
     nav > a {
         line-height: 1;
+        margin: 10px 0;
     }
     h2 {
         margin-bottom: 24px;

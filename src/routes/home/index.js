@@ -20,8 +20,10 @@ export default function Home() {
 						</div>
 						<div>
 							<h4>Friday, May 30th, 2025</h4>
-							<p>5:30pm - Ceremony @ Moss</p>
-							<p>7:00pm - Dinner + Reception @ Moss</p>
+							<i>all events taking place @ moss denver</i>
+							<p>5:30pm - Ceremony</p>
+							<p>6:00pm - cocktail hour</p>
+							<p>7:00pm - Dinner + Reception</p>
 							<p>11:00pm - Wedding end</p>
 						</div>
 					</div>

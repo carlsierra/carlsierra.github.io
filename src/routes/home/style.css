@@ -25,6 +25,19 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    line-height: 1;
+}
+
+.schedule-stub h3 {
+    font-size: 24px;
+}
+
+.schedule-stub > div > div {
+    margin-bottom: 36px;
+}
+
+.schedule-stub i {
+    font-size: 14px;
 }
 
 /* landscapes */

@@ -4,7 +4,7 @@ export default function ThingsToDo() {
 	return (
 		<div class='page things-to-do'>
 			<h2>Things to do</h2>
-			<p>All of these favs are within walking distance of our suggested hotels!</p>
+			<p>All of these favorites are within walking distance of our suggested hotels!</p>
 
 			<div>
 				<p class='thing-title'>Drinks | dinner at Sunday vinyl</p>

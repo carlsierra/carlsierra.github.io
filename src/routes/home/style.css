@@ -100,7 +100,22 @@
     grid-row: 19 / 23;
 }
 
+.photo-cred {
+    display: flex;
+    justify-content: center;
+    margin-top: 64px;
+    text-align: center;
+    line-height: 1.5;
+    font-size: 14px;
+}
+
 @media (max-width: 639px) {
+    .photo-cred {
+        margin-top: 32px;
+    }
+    .photo-cred span {
+        display: block;
+    }
     .container {
         display: flex;
         flex-direction: column;

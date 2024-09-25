@@ -77,6 +77,13 @@ export default function Home() {
 					<img src='assets/home/KASI9136-2.jpg'/>
 				</div>
 			</div>
+			<div class='photo-cred'>
+				<div>
+				<span>photography by</span> <a href='https://kasitimbayphotography.com/' target='_blank'>
+				Karina Asitimbay<img class='external-link-icon' src='assets/external-2.svg' />
+				</a>
+				</div>
+			</div>
 		</div>
 	);
 }

@@ -9,7 +9,8 @@ export default function Accommodations() {
 				<p>For the convenience of our guests we have reserved a block of rooms at The Limelight Hotel. 
 					A limited number of rooms have been reserved at a nightly rate of $279. 
 					Please make sure to use our booking link below or call to make a 
-					reservation under “Johnson and Olthoff Wedding” to ensure you get the group rate.</p>
+					reservation under “Johnson and Olthoff Wedding” to ensure you get the group rate. 
+					If no rooms are available under the room block, you are welcome to book directly through the hotel.</p>
 				<div class='hotelSection'>
 					<img src='assets/limelight.jpg'/>
 					<div>
@@ -43,6 +44,7 @@ export default function Accommodations() {
 				<p>We have also reserved an additional block of rooms at Hotel Indigo. 
 					A limited number of rooms have been reserved at a nightly rate of $209. 
 					Please make sure to use our booking link below or call to make a reservation under “Johnson Wedding” to ensure you get the group rate.
+					If no rooms are available under the room block, you are welcome to book directly through the hotel.
 				</p>
 				<div class='hotelSection indigo'>
 					<img src='assets/indigo.jpg'/>

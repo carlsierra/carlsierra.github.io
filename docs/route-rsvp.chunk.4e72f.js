@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[952],{46:(e,s,n)=>{function r(){return(0,c.FD)("div",{class:"page",style:"text-align: center",children:[(0,c.Y)("h2",{children:"rsvp"}),"rsvp's are now closed. see you soon!"]})}n.r(s),n.d(s,{default:()=>r});var c=n(35)}}]);
+//# sourceMappingURL=route-rsvp.chunk.4e72f.js.map
